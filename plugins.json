@@ -3,7 +3,7 @@
         "iconUrl": "https://cb01.uno/apple-icon-180x180px.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/haroldfinthewriter/ItaStreamDev",
-        "fileSize": 23058,
+        "fileSize": 23056,
         "status": 1,
         "language": "it",
         "authors": [
@@ -14,7 +14,7 @@
             "TvSeries",
             "Cartoon"
         ],
-        "version": 13,
+        "version": 14,
         "internalName": "CB01",
         "description": "Movies and Shows from CB01",
         "url": "https://raw.githubusercontent.com/haroldfinthewriter/ItaStreamDev/main/CB01.cs3",
