@@ -3,7 +3,7 @@
         "iconUrl": "https://onlineserietv.com/wp-content/uploads/2023/01/cropped-tv-1.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/haroldfinthewriter/ItaStreamDev",
-        "fileSize": 20255,
+        "fileSize": 21442,
         "status": 1,
         "language": "it",
         "authors": [
@@ -15,7 +15,7 @@
             "Documentary",
             "Cartoon"
         ],
-        "version": 4,
+        "version": 5,
         "internalName": "OnlineSerieTV",
         "description": "Movies and Shows from OnlineSerieTV",
         "url": "https://raw.githubusercontent.com/haroldfinthewriter/ItaStreamDev/main/OnlineSerieTV.cs3",
