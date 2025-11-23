@@ -1,9 +1,9 @@
 [
     {
-        "iconUrl": "https://onlineserietv.com/wp-content/uploads/2023/01/cropped-tv-1.png",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=guardaserie.ceo&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/haroldfinthewriter/ItaStreamDev",
-        "fileSize": 21443,
+        "fileSize": 11104,
         "status": 1,
         "language": "it",
         "authors": [
@@ -11,14 +11,12 @@
         ],
         "tvTypes": [
             "TvSeries",
-            "Movie",
             "Documentary",
             "Cartoon"
         ],
-        "version": 5,
-        "internalName": "OnlineSerieTV",
-        "description": "Movies and Shows from OnlineSerieTV",
-        "url": "https://raw.githubusercontent.com/haroldfinthewriter/ItaStreamDev/main/OnlineSerieTV.cs3",
-        "name": "OnlineSerieTV"
+        "version": 1,
+        "internalName": "GuardaSerie",
+        "url": "https://raw.githubusercontent.com/haroldfinthewriter/ItaStreamDev/main/GuardaSerie.cs3",
+        "name": "GuardaSerie"
     }
 ]
