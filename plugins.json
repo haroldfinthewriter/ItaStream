@@ -3,7 +3,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=guardaserie.ceo&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/haroldfinthewriter/ItaStream",
-        "fileSize": 11946,
+        "fileSize": 12290,
         "status": 1,
         "language": "it",
         "authors": [
@@ -14,7 +14,7 @@
             "Documentary",
             "Cartoon"
         ],
-        "version": 7,
+        "version": 1,
         "internalName": "GuardaSerie",
         "url": "https://raw.githubusercontent.com/haroldfinthewriter/ItaStream/main/GuardaSerie.cs3",
         "name": "GuardaSerie"
