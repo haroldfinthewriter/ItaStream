@@ -1,9 +1,30 @@
 [
     {
+        "iconUrl": "https://altadefinizionegratis.group/templates/Dark/img/favicon.ico",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/haroldfinthewriter/ItaStream",
+        "fileSize": 21382,
+        "status": 1,
+        "language": "it",
+        "authors": [
+            "ItaStream"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Documentary"
+        ],
+        "version": 1,
+        "internalName": "AltaDefinizione",
+        "description": "Movies and Tv Series from Altadefinizione",
+        "url": "https://raw.githubusercontent.com/haroldfinthewriter/ItaStream/main/AltaDefinizione.cs3",
+        "name": "AltaDefinizione"
+    },
+    {
         "iconUrl": "https://cb01.uno/apple-icon-180x180px.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/haroldfinthewriter/ItaStream",
-        "fileSize": 23058,
+        "fileSize": 23052,
         "status": 1,
         "language": "it",
         "authors": [
@@ -24,7 +45,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=guardaserie.ceo&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/haroldfinthewriter/ItaStream",
-        "fileSize": 10773,
+        "fileSize": 10776,
         "status": 1,
         "language": "it",
         "authors": [
@@ -44,7 +65,7 @@
         "iconUrl": "https://streamingunity.co/apple-touch-icon.png?v=2",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/haroldfinthewriter/ItaStream",
-        "fileSize": 41776,
+        "fileSize": 41768,
         "status": 1,
         "language": "it",
         "authors": [
