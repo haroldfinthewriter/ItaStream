@@ -1,86 +1,25 @@
 [
     {
-        "iconUrl": "https://altadefinizionegratis.group/templates/Dark/img/favicon.ico",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/haroldfinthewriter/ItaStream",
-        "fileSize": 21381,
+        "url": "https://raw.githubusercontent.com/haroldfinthewriter/ItaStream/main/StreamingCommunity.cs3",
         "status": 1,
-        "language": "it",
+        "version": 30,
+        "name": "StreamingCommunity",
+        "internalName": "StreamingCommunity",
         "authors": [
             "ItaStream"
         ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries",
-            "Documentary"
-        ],
-        "version": 1,
-        "internalName": "AltaDefinizione",
-        "description": "Movies and Tv Series from Altadefinizione",
-        "url": "https://raw.githubusercontent.com/haroldfinthewriter/ItaStream/main/AltaDefinizione.cs3",
-        "name": "AltaDefinizione"
-    },
-    {
-        "iconUrl": "https://cb01.uno/apple-icon-180x180px.png",
-        "apiVersion": 1,
+        "description": "TV Shows and Movies from StreamingCommunity",
+        "fileSize": 57196,
         "repositoryUrl": "https://github.com/haroldfinthewriter/ItaStream",
-        "fileSize": 28170,
-        "status": 1,
         "language": "it",
-        "authors": [
-            "haroldfinthewriter"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries",
-            "Cartoon"
-        ],
-        "version": 1,
-        "internalName": "CB01",
-        "description": "Movies and Shows from CB01",
-        "url": "https://raw.githubusercontent.com/haroldfinthewriter/ItaStream/main/CB01.cs3",
-        "name": "CB01"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=guardaserie.ceo&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/haroldfinthewriter/ItaStream",
-        "fileSize": 10774,
-        "status": 1,
-        "language": "it",
-        "authors": [
-            "haroldfinthewriter"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Documentary",
-            "Cartoon"
-        ],
-        "version": 1,
-        "internalName": "GuardaSerie",
-        "url": "https://raw.githubusercontent.com/haroldfinthewriter/ItaStream/main/GuardaSerie.cs3",
-        "name": "GuardaSerie"
-    },
-    {
-        "iconUrl": "https://streamingunity.tv/apple-touch-icon.png?v=2",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/haroldfinthewriter/ItaStream",
-        "fileSize": 41803,
-        "status": 1,
-        "language": "it",
-        "authors": [
-            "haroldfinthewriter"
-        ],
         "tvTypes": [
             "TvSeries",
             "Movie",
             "Documentary",
             "Cartoon"
         ],
-        "version": 3,
-        "internalName": "StreamingCommunity",
-        "description": "TV Shows and Movies from StreamingCommunity (now StreamingUnity)",
-        "url": "https://raw.githubusercontent.com/haroldfinthewriter/ItaStream/main/StreamingCommunity.cs3",
-        "name": "StreamingCommunity"
+        "iconUrl": "https://streamingunity.autos/apple-touch-icon.png?v=2",
+        "apiVersion": 1,
+        "fileHash": "sha256-abf13b491e385f1bb5f770c6864db53119a6a54b24d69202127a5e24e91af796"
     }
 ]
