@@ -2,7 +2,7 @@
     {
         "url": "https://raw.githubusercontent.com/haroldfinthewriter/ItaStream/main/StreamingCommunity.cs3",
         "status": 1,
-        "version": 30,
+        "version": 31,
         "name": "StreamingCommunity",
         "internalName": "StreamingCommunity",
         "authors": [
@@ -20,6 +20,6 @@
         ],
         "iconUrl": "https://streamingunity.autos/apple-touch-icon.png?v=2",
         "apiVersion": 1,
-        "fileHash": "sha256-abf13b491e385f1bb5f770c6864db53119a6a54b24d69202127a5e24e91af796"
+        "fileHash": "sha256-90340d95c47feed3644eb2c1e7c8631bccf43669bf8e4a7b58d4ad1f5ee0d180"
     }
 ]
