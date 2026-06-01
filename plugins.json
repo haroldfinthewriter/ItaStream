@@ -2,14 +2,14 @@
     {
         "url": "https://raw.githubusercontent.com/haroldfinthewriter/ItaStream/main/StreamingCommunity.cs3",
         "status": 1,
-        "version": 31,
+        "version": 32,
         "name": "StreamingCommunity",
         "internalName": "StreamingCommunity",
         "authors": [
             "ItaStream"
         ],
         "description": "TV Shows and Movies from StreamingCommunity",
-        "fileSize": 57196,
+        "fileSize": 57186,
         "repositoryUrl": "https://github.com/haroldfinthewriter/ItaStream",
         "language": "it",
         "tvTypes": [
@@ -20,6 +20,6 @@
         ],
         "iconUrl": "https://streamingunity.autos/apple-touch-icon.png?v=2",
         "apiVersion": 1,
-        "fileHash": "sha256-90340d95c47feed3644eb2c1e7c8631bccf43669bf8e4a7b58d4ad1f5ee0d180"
+        "fileHash": "sha256-4296ce38c234c57e77f28343e4c90b22e3cdcd3cf13c1714af6cb26c0bc63633"
     }
 ]
